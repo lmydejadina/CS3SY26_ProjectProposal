@@ -11,7 +11,7 @@
 
 - Group Manager is a project that allows students to manage their group members, assign roles, delegate activities for the group, track completion of activities and give ratings for overperforming or underperforming groupmates. This can help students perform better and track members easier in group projects.
 
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
+- The system will have group object classes which each contain several student objects and a group leader. The group object class contains these students in a list and can select a group leader from said students. Students are also able to complete tasks and interact with other students by giving them ratings. The expected output should be a list of students within a group, as well as their assigned tasks, roles, and average and respective ratings from peers.
 
 - The target demographic are students/student leaders who are managing their groupmates in group projects/group activities.
 
