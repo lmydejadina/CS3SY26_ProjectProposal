@@ -3,7 +3,7 @@
 
 ## Project Proposal
 
-### Project Title or Name of the Application	: 
+### Project Title or Name of the Application	: Group Manager
 ### Section			   	      : 9-Cesium
 ### Group Members			    : BITOR, Joaquin; DEJADINA, Liam; RESUELLO, Casey
 ### Date (Proposal Date)  : Nov 12, 2026
@@ -13,7 +13,7 @@
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
-- Include the description as well of your target demographics as the user of your application. 
+- The target demographic are students/student leaders who are managing their groupmates in group projects/group activities.
 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
