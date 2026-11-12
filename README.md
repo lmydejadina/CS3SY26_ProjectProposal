@@ -9,7 +9,7 @@
 ### Date (Proposal Date)  : Nov 12, 2026
 ### Project Description:
 
-- A brief summary of the project description and the need for it.
+- Group Manager is a project that allows students to manage their group members, assign roles, delegate activities for the group, track completion of activities and give ratings for overperforming or underperforming groupmates.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
