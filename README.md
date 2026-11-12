@@ -6,7 +6,7 @@
 ### Project Title or Name of the Application	: Group Manager
 ### Section			   	      : 9-Cesium
 ### Group Members			    : BITOR, Joaquin; DEJADINA, Liam; RESUELLO, Casey
-### Date (Proposal Date)  : Nov 12, 2026
+### Date (Proposal Date)  : Nov 13, 2026
 ### Project Description:
 
 - Group Manager is a project that allows students to manage their group members, assign roles, delegate activities for the group, track completion of activities and give ratings for overperforming or underperforming groupmates. This can help students perform better and track members easier in group projects.
