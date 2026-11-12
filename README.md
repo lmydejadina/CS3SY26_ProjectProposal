@@ -9,7 +9,7 @@
 ### Date (Proposal Date)  : Nov 12, 2026
 ### Project Description:
 
-- Group Manager is a project that allows students to manage their group members, assign roles, delegate activities for the group, track completion of activities and give ratings for overperforming or underperforming groupmates.
+- Group Manager is a project that allows students to manage their group members, assign roles, delegate activities for the group, track completion of activities and give ratings for overperforming or underperforming groupmates. This can help students perform better and track members easier in group projects.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
@@ -23,10 +23,11 @@
 
 ### Goals:
 
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
+The goal for this coding project is to provide an application that group leaders can use in order to assign tasks to their groupmates and track the performance and completion of these groupmates in their assigned tasks and roles. This project aims to assist groups in being able to track the delegation of roles, tasks, and necessary requirements, allowing for easier monitoring among a group.
 
-- Objective 1:
-- Objective 2:
-- Objective n:
+- Objective 1: Make tracking group members easier for group leaders
+- Objective 2: Increase productivity and collaboration among group projects
+- Objective 3: Encourage active participation among the group by being able to track under or over performing group members
+- Objective 4: Allow for the easier delegation of tasks and roles among the group
 
 [Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
