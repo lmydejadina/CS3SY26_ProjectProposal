@@ -1,13 +1,12 @@
 # CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
 
 
-## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+## Project Proposal
+
+### Project Title or Name of the Application	: 
+### Section			   	      : 9-Cesium
+### Group Members			    : BITOR, Joaquin; DEJADINA, Liam; RESUELLO, Casey
+### Date (Proposal Date)  : Nov 12, 2026
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
