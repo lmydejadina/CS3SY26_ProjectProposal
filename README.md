@@ -15,7 +15,7 @@
 
 - The target demographic are students/student leaders who are managing their groupmates in group projects/group activities.
 
-![UML Diagram]([https://github.com/lmydejadina/CS3SY26_ProjectProposal/blob/main/CS3SY26_ProjectProposal_Diagram.drawio.png?raw=true])
+![UML Diagram](https://github.com/lmydejadina/CS3SY26_ProjectProposal/blob/main/CS3SY26_ProjectProposal_Diagram.drawio.png?raw=true)
 
 ### Goals:
 
