@@ -1,6 +1,3 @@
-# CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
-
-
 ## Project Proposal
 
 ### Project Title or Name of the Application	: Group Manager
